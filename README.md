@@ -41,7 +41,8 @@ This dataset is a critical resource for:
 
 This project will provide actionable insights, contributing to a deeper understanding of aviation safety and potentially influencing policy and training improvements within the aviation industry.
 
-![Dashboard]
+![Dashboard]![1 Airplane Crashes and Fatalities](https://github.com/user-attachments/assets/85aee65d-8a0c-4b79-b888-e4ac953c24e3)
+
 
 
 ### Data Sources
